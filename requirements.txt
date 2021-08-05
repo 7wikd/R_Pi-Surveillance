@@ -1,0 +1,5 @@
+virtualenv
+face-recognition
+tensorflow
+opencv-python
+mediapipe
